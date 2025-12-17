@@ -2,5 +2,5 @@
 Proyek latihan workshop kolaborasi data
 
 
-HELOO WORLD 
-Heloo world lagi
+HELlO WORLD 
+Hello world lagi
